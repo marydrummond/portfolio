@@ -1,0 +1,30 @@
+---
+title: "About Me"
+image: images/IMAG1955.jpg
+site-url: https://marydrummond.com/about/
+title-block-banner: "#F87381"
+image-alt: "A photo of me, Mary, standing in front of Kirkjufell Mountain during a trip to Iceland. The mountain is tall and green behind me, and I stand in front of it, smiling happily with my arms stretched out above me."
+about:
+  template: solana
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/marysdrummond
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mrydrmmnd
+    - icon: github
+      text: Github
+      href: https://github.com/marydrummond
+---
+
+I'm a computational social scientist, R-programming enthusiast, and a lover of all things innovation. I work at RTI International as a data processing programmer, editing and preparing federal secondary and postsecondary education data.
+
+Having majored in Sociology and Linguistics from the University of North Carolina at Chapel Hill, a majority of my background is in the social sciences, studying the systems within which we humans interact with each other and with institutions, as well as the linguistic nuances we use in those interactions.
+
+My computational and analytic interests come from computational biology experiences I had prior to encountering the social sciences mid-college. I first learned how to program in R via a Research in Computational Sciences program at the North Carolina School of Science and Mathematics. That program led to a internship at The Jackson Laboratory doing bioinformatics research and then another internship doing computational agroeconomics research with NCSU's Center for Environmental Farming Systems.
+
+An social justice-centered work study job I participated in at UNC-Chapel Hill, a wonderful Sociology 101 course I took my sophomore year, and the paradigm shifts I experienced while listening to the 2014 Black Lives Matters protests on campus thrust me into the social sciences.
+
+Since then, my career has been about seeking to merge together my computational analysis experiences with my social science interests. I sought out classes and trainings in the intersection of those two things, and I completed a senior honor's thesis (which earned Highest Honors!) examining ethnolinguistic identity using analytic techniques I learned in my previous internships. After graduating from UNC-Chapel Hill, I began working at RTI International, where I continue to get to merge my two interests and develop my computational social science skills.

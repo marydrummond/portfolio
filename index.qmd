@@ -1,0 +1,6 @@
+---
+title: "Hello!"
+title-block-banner: "#F87381"
+---
+
+My name is Mary Drummond and I'm passionate about all things data. I've set up this site using Quarto to familiarize myself with the system and to begin pulling my past projects into a portfolio. As you're reading this, please note that this website is very much a work in progress, but I plan to improve it over time, so I welcome you along my journey!

@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "Mary Drummond"
+  site-url: https://marydrummond.com
+  favicon: images/logo_tiny.png
+  navbar:
+    logo: "images/logo_tiny.png"
+    type: navbar-bg
+    # left: 
+      # - text: Projects
+      #   href: projects.qmd
+      # - text: Resume
+      #   href: resume.qmd
+    right:
+      - text: About
+        href: about.qmd
+      - icon: linkedin
+        href: https://linkedin.com/in/marysdrummond
+        aria-label: My Linkedin
+      - icon: twitter
+        href: https://twitter.com/mrydrmmnd
+        aria-label: My Twitter
+      - icon: github
+        aria-label: Github
+        menu:
+          - text: Source Code
+            url:  https://github.com/marydrummond/portfolio
+          - text: Report a Bug
+            url:  https://github.com/marydrummond/portfolio/issues
+  search: false
+  page-footer:
+    border: true
+    left: "Published with [Quarto](https://quarto.org/) v<?quarto.version?> | Page templates from [Carl Goodwin](https://www.quantumjitter.com) & [Andrew Heiss](https://www.andrewheiss.com/)"
+    right: "© 2023 [Mary Drummond](/about.qmd) | [MIT License](/license.md)"
+    
+format:
+  html:
+    theme:
+      light: [minty, scss/light.scss]
+      dark: [minty, scss/dark.scss]
+
+editor: visual
+
+filters:
+  - quarto-version.lua
+
+
